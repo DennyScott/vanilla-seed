@@ -1,0 +1,8 @@
+node_modules
+app/lib
+www/
+*.log
+bower_components/
+.DS_STORE
+.sass-cache/
+dist
